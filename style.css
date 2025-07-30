@@ -251,6 +251,13 @@ nav .search-bar input {
   gap: 0.5rem;
   padding: 0.4rem;
   border-radius: 5px;
+  position: relative;
+}
+.delete {
+  position: absolute;
+  width: 1rem;
+  right: 0.3rem;
+  bottom: 0.3rem;
 }
 .order-item .order-cont strong{
   font-size: 0.8rem;
